@@ -1,0 +1,41 @@
+_repo: Tytoista-parhain_52471
+_version: 0.0.1
+alternative_title: An old-fashioned girl. Finnish
+contributor:
+  translator:
+    agent_name: Reijonen, Lyyli
+    birthdate: 1874
+    deathdate: 1938
+    gutenberg_agent_id: '46875'
+    url: http://www.gutenberg.org/2009/agents/46875
+creator:
+  author:
+    agent_name: Alcott, Louisa May
+    aliases:
+    - Alcott, Louisa M. (Louisa May)
+    - Barnard, A. M.
+    - Alcott, L. M. (Louisa May)
+    birthdate: 1832
+    deathdate: 1888
+    gutenberg_agent_id: '102'
+    url: http://www.gutenberg.org/2009/agents/102
+    wikipedia: http://en.wikipedia.org/wiki/Louisa_May_Alcott
+description: ''
+gutenberg_issued: '2016-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52471'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'City and town life -- Fiction'
+- !lcsh 'New England -- Fiction'
+- !lcsh 'Boston (Mass.) -- History -- 19th century -- Fiction'
+- !lcc 'PZ'
+- !lcsh 'Friendship -- Juvenile fiction'
+- GITenberg
+title: Tytöistä parhain
+url: http://www.gutenberg.org/ebooks/52471
